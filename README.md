@@ -1,5 +1,5 @@
 
-# Metricas con Spring Boot y Micrometer
+# Métricas con Spring Boot y Micrometer
 
 Esta aplicación muestra como crear métricas personalizadas utlizando la librería Micrometer. 
 
